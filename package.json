@@ -1,0 +1,29 @@
+{
+  "name": "TestDrivenDevelopment-JavaScript",
+  "version": "1.0.0",
+  "description": "Test Driven Development examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlosmorales125/TestDrivenDevelopment-JavaScript.git"
+  },
+  "keywords": [
+    "javascript",
+    "karma",
+    "jasmine"
+  ],
+  "author": "Carlos Morales",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/carlosmorales125/TestDrivenDevelopment-JavaScript/issues"
+  },
+  "homepage": "https://github.com/carlosmorales125/TestDrivenDevelopment-JavaScript",
+  "devDependencies": {
+    "jasmine": "^2.3.2",
+    "karma": "^0.13.11",
+    "phantomjs": "^1.9.18"
+  }
+}
